@@ -1,0 +1,114 @@
+{
+  "listings": [
+    {
+      "id": 1,
+      "title": "Black jacket",
+      "images": [
+        {
+          "url": "https://pbx2-pbww-prod-pbww-cdn.getprintbox.com/media/productimage/e925de22-44e0-4276-bb92-0b4101f5f834/Blank%20Jacket_thumb_900x900",
+          "thumbnailUrl": "https://pbx2-pbww-prod-pbww-cdn.getprintbox.com/media/productimage/e925de22-44e0-4276-bb92-0b4101f5f834/Blank%20Jacket_thumb_900x900"
+        }
+      ],
+      "price": 1750,
+      "categoryId": 5,
+      "userId": 1,
+      "location": {
+        "latitude": 37.78825,
+        "longitude": -122.4324
+      }
+    },
+    {
+      "id": 2,
+      "title": "Gray couch in a great condition",
+      "images": [
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZqYu9Z6Ui3QsoNugQcusNKuY8bOCLx9JVYimrD3Ated3IQqYv45LOy8g8DsVZwiOWhvs&usqp=CAU",
+          "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZqYu9Z6Ui3QsoNugQcusNKuY8bOCLx9JVYimrD3Ated3IQqYv45LOy8g8DsVZwiOWhvs&usqp=CAU"
+        }
+      ],
+      "price": 47000,
+      "categoryId": 5,
+      "userId": 1,
+      "location": {
+        "latitude": 37.78825,
+        "longitude": -122.4324
+      }
+    },
+    {
+      "id": 3,
+      "title": "Computer Table",
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2019/01/07/3NMKQYZQFLZ75SDQVEI7LAV3UY.jpg",
+          "thumbnailUrl": "https://www.popsci.com/uploads/2019/01/07/3NMKQYZQFLZ75SDQVEI7LAV3UY.jpg"
+        }
+      ],
+      "price": 32500,
+      "categoryId": 5,
+      "userId": 1,
+      "location": {
+        "latitude": 37.78825,
+        "longitude": -122.4324
+      }
+    },
+    {
+      "id": 4,
+      "title": "Jeep Grand Cherokee V8 SRT 4X4 4WD Sport Utility",
+      "images": [
+        {
+          "url": "https://content.homenetiol.com/2000292/2184751/0x0/2e9a946a4d2449dc8b4b5e6476ab7e31.jpg",
+          "thumbnailUrl": "https://content.homenetiol.com/2000292/2184751/0x0/2e9a946a4d2449dc8b4b5e6476ab7e31.jpg"
+        }
+      ],
+      "price": 42500000,
+      "categoryId": 5,
+      "userId": 1,
+      "location": {
+        "latitude": 37.78825,
+        "longitude": -122.4324
+      }
+    },
+    {
+      "id": 5,
+      "title": "Surface laptop 4 with intel & AMD CPU options",
+      "images": [
+        {
+          "url": "https://i.gadgets360cdn.com/large/Surface_Laptop_4_launch_1618387367960.jpg",
+          "thumbnailUrl": "https://i.gadgets360cdn.com/large/Surface_Laptop_4_launch_1618387367960.jpg"
+        }
+      ],
+      "price": 125000,
+      "categoryId": 5,
+      "userId": 1,
+      "location": {
+        "latitude": 37.78825,
+        "longitude": -122.4324
+      }
+    },
+    {
+      "id": 6,
+      "title": "2021 Range Rover sport",
+      "images": [
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJv52ahoGXSf5VNKPZ1Z36k__xjm3Vv65Syw&usqp=CAU",
+          "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJv52ahoGXSf5VNKPZ1Z36k__xjm3Vv65Syw&usqp=CAU"
+        }
+      ],
+      "price": 30000000,
+      "categoryId": 5,
+      "userId": 1,
+      "location": {
+        "latitude": 37.78825,
+        "longitude": -122.4324
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Tharanga",
+      "email": "tharangamahavila@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
